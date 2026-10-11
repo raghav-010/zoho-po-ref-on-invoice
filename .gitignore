@@ -1,0 +1,10 @@
+.env
+*.env
+config.json
+secrets.json
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.idea/
